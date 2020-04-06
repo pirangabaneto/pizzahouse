@@ -28,6 +28,16 @@
     </select>
     <!--End pizzas base-->
 
+    <!--Start pizza toppings-->
+    <fieldset>
+      <label>Extra toppings:</label>
+      <input type="checkbox" name="toppings[]" value="mushrooms">Mushrooms<br/>
+      <input type="checkbox" name="toppings[]" value="peppers">Peppers<br/>
+      <input type="checkbox" name="toppings[]" value="garlic">Garlic<br/>
+      <input type="checkbox" name="toppings[]" value="Olives">Olives<br/>
+    </fieldset>
+    <!--End pizza toppings-->
+
     <input type="submit" value="Order Pizza">
   </form>
 </div>
