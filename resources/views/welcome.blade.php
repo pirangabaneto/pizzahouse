@@ -1,4 +1,4 @@
-@extends('layouts.layout')
+@extends('layouts.app')
 
 @section('content')
 
@@ -8,7 +8,7 @@
             The North's Best Pizzas
         </div>
         <p class="msg"> {{ session('msg') }}</p>
-        <a href="/pizzas/create">Order a Pizza</a>
+        <a href="{{ route('pizzas.create') }}">Order a Pizza</a>
     </div>
 </div>
 @endsection

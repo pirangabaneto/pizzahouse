@@ -39,6 +39,7 @@
     <!--End pizza toppings-->
 
     <input type="submit" value="Order Pizza">
+    <a href="/" class="back"> Back to Home Page</a>
   </form>
 </div>
 @endsection
