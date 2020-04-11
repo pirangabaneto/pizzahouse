@@ -1,5 +1,5 @@
-First PHP project.
-==================
+This is my First PHP project.
+============================
 
 Available at http://pizzahouse-test.herokuapp.com/pizzas
 
