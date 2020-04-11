@@ -1,7 +1,7 @@
 This is my First PHP project.
 ============================
 
-Available at http://pizzahouse-test.herokuapp.com/pizzas
+Available at http://pizzahouse-test.herokuapp.com
 
 user: admin@admin.com
 ---------------------
