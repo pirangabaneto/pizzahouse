@@ -3,8 +3,8 @@ This is my First PHP project.
 
 Available at http://pizzahouse-test.herokuapp.com
 
-user: admin@admin.com
+User: admin@admin.com
 ---------------------
 
-password: admin123456
+Password: admin123456
 ---------------------
