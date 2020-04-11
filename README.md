@@ -1,4 +1,4 @@
-This is my First PHP project.
+This is my First PHP/Laravel project.
 ============================
 
 Available at http://pizzahouse-test.herokuapp.com
